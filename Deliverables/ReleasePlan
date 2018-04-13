@@ -1,0 +1,41 @@
+Release Plan: Speed Hacker
+Team: 1WPM (Jasper Yeh[PO], Joshua Shier[SM], Anisha Trivedi, Emilio Angeles)
+Release Date: June 6, 2018
+Revision #1
+Revision Date: April 12, 2018
+
+
+High Level Goals:
+* Be able to play a typing game
+* Be able to randomly generate typing tests for users to take
+* Be able to calculate users’ words per minute (WPM) after each game
+* Have prototype tests
+* Be able to have continuous integration
+* Be able to use a main menu to navigate to all of the product’s features
+* Be able to see player statistics
+* Be able to store highscores both locally and online
+* Have an aesthetically pleasing pixel art style
+
+
+User Stories:
+* Sprint 1: 
+   * As a user, I want to type characters using my keyboard and have them displayed on my screen so I can see what I typed.
+   * As a user, I want to see text on the screen so I know what to input into my keyboard. 
+   * As a user, I want to see a basic user interface so I can start, restart, and exit the game.
+* Sprint 2:
+   * As a user, I want to see words highlighted in color so I know which words I typed incorrectly.
+   * As a user, I want an intuitive user interface so I can easily access all of the program’s features.
+   * As a user, I want to be able to see my personal best words per minute so I can set personal goals.
+* Sprint 3:
+   * As a tester, I want to be able to play through the entire game so I can record statistics.
+   * As a user, I want to be able to see my words per minute after each game so I can see how well I did.
+   * As a user, I want be able to play with randomly generated so the game experience is different every time.
+* Sprint 4:
+   * As a user, I want to be able to post my scores online so I can compare my scores to other players.
+   * As a user, I want to see visually pleasing gameplay so the game is more enjoyable.
+
+
+Product Backlog: 
+* Online multiplayer functionality
+* Multiple modes for varying programming languages
+* Achievements
