@@ -30,33 +30,37 @@ User Stories:
 
 * Sprint 1: 
 
-   * As a user, I want to type characters using my keyboard and have them displayed on my screen so I can see what I typed.
+   * (3) As a user, I want to type characters using my keyboard and have them displayed on my screen so I can see what I typed.
    
-   * As a user, I want to see text on the screen so I know what to input into my keyboard. 
+   * (3) As a user, I want to see text on the screen so I know what to input into my keyboard.
    
-   * As a user, I want to see a basic user interface so I can start, restart, and exit the game.
+   * (2) As a user, I want to see a basic user interface so I can start, restart, and exit the game.
    
 * Sprint 2:
 
-   * As a user, I want to see words highlighted in color so I know which words I typed incorrectly.
+   * (3) As a user, I want to see words highlighted in color so I know which words I typed incorrectly.
    
-   * As a user, I want an intuitive user interface so I can easily access all of the program’s features.
-   
-   * As a user, I want to be able to see my personal best words per minute so I can set personal goals.
+   * (3) As a user, I want to be able to see my words per minute after each game so I can see how well I did.
+  
+   * (2) As a user, I want an intuitive user interface so I can easily access all of the program’s features.
+  
    
 * Sprint 3:
 
-   * As a tester, I want to be able to play through the entire game so I can record statistics.
+   * (5) As a user, I want be able to play with randomly generated so the game experience is different every time.
    
-   * As a user, I want to be able to see my words per minute after each game so I can see how well I did.
+   * (1) As a tester, I want to be able to play through the entire game so I can record statistics.
    
-   * As a user, I want be able to play with randomly generated so the game experience is different every time.
+   * (1) As a user, I want to be able to see my personal best WPM so I can set personal goals to beat.
+   
+
    
 * Sprint 4:
 
-   * As a user, I want to be able to post my scores online so I can compare my scores to other players.
+   * (5) As a user, I want to see visually pleasing gameplay so the game is more enjoyable.
    
-   * As a user, I want to see visually pleasing gameplay so the game is more enjoyable.
+   * (3) As a user, I want to be able to post my scores online so I can compare my scores to other players.
+  
 
 
 Product Backlog: 
